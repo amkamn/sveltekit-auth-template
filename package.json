@@ -1,8 +1,8 @@
 {
-    "name": "sveltekit-auth-template",
+    "name": "@amkamn/sveltekit-auth-template",
     "author": "amkamn",
-    "bin": "./bin/cli/js",
-    "version": "0.0.1",
+    "bin": "./bin/cli.js",
+    "version": "1.0.2",
     "scripts": {
         "dev": "vite dev",
         "build": "vite build",
